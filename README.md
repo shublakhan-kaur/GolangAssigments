@@ -1,2 +1,3 @@
-# GolangAssigments
-Golang Assigments
+# GolangAssignments
+
+#Tutorials  https://go.dev/doc/tutorial/
