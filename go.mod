@@ -1,3 +1,0 @@
-module GolangAssigments
-
-go 1.21.6

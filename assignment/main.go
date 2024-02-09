@@ -1,10 +1,10 @@
 package main
 
 import (
-	"GolangAssigments/addition"
-	"GolangAssigments/division"
-	"GolangAssigments/multiply"
-	"GolangAssigments/subtraction"
+	"assignment/addition"
+	"assignment/division"
+	"assignment/multiply"
+	"assignment/subtraction"
 	"fmt"
 )
 
